@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: "Istok Web", sans-serif;
+}
+.whole {
+    box-sizing: border-box;
+    background-color: black;
+    padding: 144px;
+}
+.explain {
+    font-size: 36px;
+    line-height: 52px;
+    font-weight: 400;
+    color: #6e6d6d;
+    letter-spacing: -0.04em;
+}
+.total {
+    display: flex;
+    padding-top: 74px;
+}
+.left {
+    width: 50vw;
+}
+.title {
+    font-size: 48px;
+    font-weight: 700;
+    color: white;
+    line-height: 32px;
+    letter-spacing: -0.04em;
+}
+.content {
+    font-size: 20px;
+    color: white;
+    line-height: 32px;
+    letter-spacing: -0.04em;
+    padding-bottom: 40px;
+}
+.second_content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.right {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button {
+    background-color: black;
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 69px;
+    letter-spacing: -0.04em;
+    padding: 12px 24px;
+    border: 1px solid white;
+    text-decoration: none;
+}
